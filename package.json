@@ -1,0 +1,26 @@
+{
+  "name": "enginez",
+  "version": "0.0.1",
+  "description": "Templating engine for expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoRajika/EngineZ.git"
+  },
+  "keywords": [
+    "templating",
+    "engine"
+  ],
+  "author": "Rajika Imal <inbox.rajika@gmail.com> (http://rajika.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoRajika/EngineZ/issues"
+  },
+  "homepage": "https://github.com/xoRajika/EngineZ#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
